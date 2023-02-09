@@ -15,7 +15,7 @@ main>.container {
     justify-content: center;
 }
 
-#newsmenu1{
+#newsmenu1, #newsmenu2, #newsmenu3, #newsmenu4, #newsmenu5{
     margin-top: 20px;
 }
 
