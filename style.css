@@ -100,6 +100,13 @@ main>.container {
     align-items: center;
 }
 
+
+@media (max-width: 1280px) {
+    .grid-view {
+        grid-template-columns: repeat(2, 300px);
+    }
+}
+
 @media (max-width: 1000px) {
     .grid-view {
         grid-template-columns: repeat(2, 300px);
